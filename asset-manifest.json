@@ -1,13 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.18ed0bc0.css",
-    "main.js": "/static/js/main.2517d721.js",
+    "main.js": "/static/js/main.738f88d1.js",
     "static/js/787.52332f46.chunk.js": "/static/js/787.52332f46.chunk.js",
-    "static/media/back.jpg": "/static/media/back.8ede582fdfa42394b1d1.jpg",
+    "static/media/lasteven1.jpg": "/static/media/lasteven1.041d759705a957bd6853.jpg",
+    "static/media/burdigala2.jpg": "/static/media/burdigala2.c1fea5ae5f6f82e70c90.jpg",
+    "static/media/Burdigala2Intérieur.jpg": "/static/media/Burdigala2Intérieur.e073630563dc971df1f1.jpg",
+    "static/media/surmesure.jpg": "/static/media/surmesure.af4cb83f0ab344d39f16.jpg",
+    "static/media/Panorama2.jpg": "/static/media/Panorama2.061cf5f6dd3040a3bb1c.jpg",
+    "static/media/lastevent2.jpg": "/static/media/lastevent2.6263c7e6cd8cc748e345.jpg",
     "static/media/back_4.jpg": "/static/media/back_4.19b5bbfbd0b070b77126.jpg",
+    "static/media/burdigala .jpg": "/static/media/burdigala .0dea13accfcdc287bb09.jpg",
     "static/media/back_2.jpg": "/static/media/back_2.4482bf3484192a2637d7.jpg",
-    "static/media/back_3.jpg": "/static/media/back_3.8cc6fa17a6f3fdd0affc.jpg",
+    "static/media/Bateau.jpg": "/static/media/Bateau.3a9013bec8c0d6ba3452.jpg",
+    "static/media/PANORAMA.jpg": "/static/media/PANORAMA.a764f4634b9862caf74c.jpg",
+    "static/media/BurdigalaII-citeduvin.jpg": "/static/media/BurdigalaII-citeduvin.2149f3f6e0f36c7d6786.jpg",
     "static/media/back_5.jpg": "/static/media/back_5.daa3fc3436053392f09c.jpg",
+    "static/media/deval.png": "/static/media/deval.394ef24e6718c31565e9.png",
     "static/media/LOGO_WHITE.png": "/static/media/LOGO_WHITE.9026176b53379c40f731.png",
     "static/media/logo_true.svg": "/static/media/logo_true.b811073e1fd0b6465a05bfb211e65cf3.svg",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -27,11 +36,11 @@
     "static/media/favicon_2.svg": "/static/media/favicon_2.f1dc586df2c6ddc31166b25ced0e5112.svg",
     "static/media/Polygone 9 (fermé).svg": "/static/media/Polygone 9 (fermé).07a99bc2ba0c9fd6ed805839b655d1b9.svg",
     "main.18ed0bc0.css.map": "/static/css/main.18ed0bc0.css.map",
-    "main.2517d721.js.map": "/static/js/main.2517d721.js.map",
+    "main.738f88d1.js.map": "/static/js/main.738f88d1.js.map",
     "787.52332f46.chunk.js.map": "/static/js/787.52332f46.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18ed0bc0.css",
-    "static/js/main.2517d721.js"
+    "static/js/main.738f88d1.js"
   ]
 }
